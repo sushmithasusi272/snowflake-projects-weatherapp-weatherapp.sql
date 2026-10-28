@@ -1,0 +1,1 @@
+# snowflake-projects-weatherapp-weatherapp.sql
